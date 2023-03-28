@@ -1,0 +1,7 @@
+{
+  "name": "contracts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Hüseyin <huseyinokand@gmail.com>",
+  "license": "MIT"
+}
